@@ -1,0 +1,1 @@
+kwords = ['alexa AND echo', 'bombilla AND alexa', 'Banggood', 'test', 'polerdo', 'Una grande AND libre y unida ', 'ilitri ', 'ilitri AND monguer ', 'auriculares AND bluetooth AND sony ']
